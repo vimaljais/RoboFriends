@@ -13,6 +13,7 @@ h1 {
 	color:  #03c6fc;
 }
 
+#content_cont h1 { margin-top:0; }
 .backg {
 	background-color: rgba(0,0,0,0.5);
 }
